@@ -1,0 +1,5 @@
+{
+  "app": {
+    "jwtPrivateKey": "%env.app.jwtPrivateKey%"
+  }
+}
