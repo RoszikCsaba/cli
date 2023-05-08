@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'my-software-hu', // ez 
+    name: 'my-software-hu', // csak ez az egyedi
     script: 'dist/src/main.js',
 
     // Options reference: https://pm2.keymetrics.io/docs/usage/application-declaration/
