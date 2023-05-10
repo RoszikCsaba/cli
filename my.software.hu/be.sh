@@ -1,3 +1,3 @@
 host="192.168.1.1"
-targetFolder="/var/www/my.software.hu/service/"
+targetFolder="/home/teamcity/poc/be/"
 tmpFolder="/home/teamcity/install/"
