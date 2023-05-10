@@ -1,3 +1,3 @@
-host="192.168.1.1"
+host="192.168.22.18"
 targetFolder="/home/teamcity/poc/be/"
 tmpFolder="/home/teamcity/install/"
